@@ -1,6 +1,7 @@
 
 <p align="justify">
 
+# Harmonised Local Authorities of England and Wales
 
 ## Background
 
